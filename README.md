@@ -1,6 +1,6 @@
 # F1 Race Strategy — Tyre Degradation Modelling & Pit Stop Simulator
 
-🚧 **Work in progress**
+**Work in progress**
 
 ## Overview
 
